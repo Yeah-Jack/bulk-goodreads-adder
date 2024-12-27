@@ -10,10 +10,15 @@ This project contains a Python script that reads a text file, searches for books
 ## How to Run
 
 1. Ensure you have Python installed on your system.
-2. Install the neccessary requirements by running the following command: `pip install -r requirements.txt`.
-3. Place the texte file for the books you want to search for in the same directory as `goodreads.py` and name it `books.txt`.
-4. Run the `goodreads.py` script with Python:
+2. Install the requirements by running the command:
 
 ```python
-python Parser.py
+pip install -r requirements.txt
+```
+
+3. Place the text file for the books you want to search for in the same directory as `goodreads.py` and name it `books.txt`.
+4. Run the `goodreads.py` script with Python:
+5. 
+```python
+python goodreads.py
 ```
