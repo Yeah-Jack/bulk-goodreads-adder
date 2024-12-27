@@ -1,5 +1,7 @@
 # Bulk Goodreads Adder
 
+[![DeepSource](https://app.deepsource.com/gh/Yeah-Jack/bulk-goodreads-adder.svg/?label=active+issues&show_trend=true&token=S6kQVxbzvXocbzGXMBkg141C)](https://app.deepsource.com/gh/Yeah-Jack/bulk-goodreads-adder/)
+
 This project contains a Python script that reads a text file, searches for books on Goodreads, and adds them to your "Want to Read" shelf.
 
 ## File Structure
