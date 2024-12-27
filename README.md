@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 3. Place the text file for the books you want to search for in the same directory as `goodreads.py` and name it `books.txt`.
 4. Run the `goodreads.py` script with Python:
-5. 
+
 ```python
 python goodreads.py
 ```
